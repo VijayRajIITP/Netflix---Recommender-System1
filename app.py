@@ -153,5 +153,5 @@ def recommend():
         vote_count=vote_count,release_date=release_date,runtime=runtime,status=status,genres=genres,
         movie_cards=movie_cards,reviews=movie_reviews,casts=casts,cast_details=cast_details)
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080)
+    app.run(debug=True)
 
