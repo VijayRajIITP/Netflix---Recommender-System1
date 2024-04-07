@@ -19,7 +19,7 @@ To run a Flask deployment tests, run the following command
 
 To run a Amazon aws deployment tests, click on the following link:
 
-[Netflix Recommender System App](http://ec2-3-27-191-69.ap-southeast-2.compute.amazonaws.com:8080/))
+[Netflix Recommender System App](http://ec2-3-27-191-69.ap-southeast-2.compute.amazonaws.com:8080/)
 
 
 ## Deployment
