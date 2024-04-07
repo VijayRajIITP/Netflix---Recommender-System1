@@ -40,7 +40,7 @@ Prepare your dataset:
 
 ## Demo
 
-[Click HERE To View App](https://netflixrecommenderapp.herokuapp.com/)
+[Click HERE To View App](http://ec2-3-27-191-69.ap-southeast-2.compute.amazonaws.com:8080/)
 
 
 
