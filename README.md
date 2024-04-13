@@ -45,6 +45,7 @@ Prepare your dataset:
 
 
 
+![Screenshot (630)](https://github.com/VijayRajIITP/Netflix---Recommender-System1/assets/149241319/38e81425-f5e5-4464-832a-2e8fb5bc703e.png)
 
 
 ![Screenshot](https://github.com/VijayRajIITP/Netflix---Recommender-System1/blob/master/assets/149241319/b9bb0e81-9634-40ce-81a2-78dfce6db232.png)
