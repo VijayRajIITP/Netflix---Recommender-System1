@@ -49,6 +49,6 @@ Prepare your dataset:
 <img width="948" alt="netflixss" src="https://github.com/VijayRajIITP/Netflix---Recommender-System1/assets/149241319/bcb2f825-343e-4a4f-9527-67f2ae9df14b">
 
 
-<img width="948" alt="netflixss" src="https://github.com/VijayRajIITP/Netflix---Recommender-System1/assets/149241319/c450f250-37af-468a-903d-d744b81c109c">
+
 
 
