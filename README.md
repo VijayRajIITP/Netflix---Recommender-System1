@@ -40,12 +40,13 @@ Prepare your dataset:
 
 ## Demo
 
-[Click HERE To View App](http://ec2-3-27-191-69.ap-southeast-2.compute.amazonaws.com:8080/)
+[Click HERE To View App](http://ec2-13-211-39-16.ap-southeast-2.compute.amazonaws.com:8080/)
 
 
 
 
 
-![logo](https://github.com/MrBriit/Netflix-Recommender-System-and-Deployment/blob/main/net%20screenshot.png?raw=true)
+
+![Screenshot (630)](https://github.com/VijayRajIITP/Netflix---Recommender-System1/assets/149241319/b9bb0e81-9634-40ce-81a2-78dfce6db232)
 
 
